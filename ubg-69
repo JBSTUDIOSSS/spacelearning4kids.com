@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Space Education</title>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#courses">Courses</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Space Education</h1>
+        <p>Explore the wonders of the universe through our educational programs.</p>
+    </header>
+
+    <!-- Main Content Section -->
+    <section id="home">
+        <h2>Featured Courses</h2>
+        <div class="course">
+            <img src="astronomy.jpg" alt="Astronomy Course">
+            <h3>Astronomy 101</h3>
+            <p>Discover the secrets of the cosmos in this introductory astronomy course.</p>
+        </div>
+
+        <div class="course">
+            <img src="space_exploration.jpg" alt="Space Exploration Course">
+            <h3>Space Exploration</h3>
+            <p>Learn about the history and future of space exploration with our expert instructors.</p>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Space Education is dedicated to providing high-quality, accessible education about space and astronomy. Our team of experienced educators and astronomers are passionate about sharing their knowledge with students around the world.</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, feel free to reach out to us:</p>
+        <address>
+            Email: <a href="mailto:info@spaceeducation.com">info@spaceeducation.com</a><br>
+            Phone: +1 (555) 123-4567
+        </address>
+    </section>
+
+</body>
+</html>
